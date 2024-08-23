@@ -25,6 +25,7 @@
     "drupal/redirect": "^1.10",
     "drupal/simple_sitemap": "^4.2",
     "drupal/token": "^1.15",
+    "drupal/twig_tweak": "^3.4",
     "drupal/ultimate_cron": "^2.0@alpha",
     "drush/drush": "^12.0",
     "szeidler/composer-patches-cli": "^1.0"
