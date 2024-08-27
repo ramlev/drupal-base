@@ -33,6 +33,7 @@
   "require-dev": {
     "drupal/devel": "^5.3",
     "drupal/ray_debugger": "^1.0",
+    "drupal/webprofiler": "^10.1",
     "mglaman/phpstan-drupal": "^1.2",
     "phpstan/extension-installer": "^1.4"
   },
