@@ -87,11 +87,6 @@
     "patches-file": "composer.patches.json",
     "patchLevel": {
       "drupal/core": "-p2"
-    },
-    "drupal-scaffold": {
-        "locations": {
-            "web-root": "web/"
-        }
     }
   },
   "config": {
